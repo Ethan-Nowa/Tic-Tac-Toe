@@ -9,7 +9,8 @@ The current player is highlighted on the top scoreboard. Refreshing the page wil
 Download project, unzip, open the folder.\
 When in the correct directory, you should see files like the src folder, public folder, README.md, etc.\
 Click into the address bar and type cmd and press Enter.\
-This should pull up cmd.exe, enter "npm start" without the quotation marks and press Enter.\
+This should pull up cmd.exe, enter "npm install" without the quotation marks and press Enter.\
+This will download any required node modules. When done, enter "npm start" and press Enter.\
 Open http://localhost:3000 in your web browser if it does not do it automatically.
 
 
