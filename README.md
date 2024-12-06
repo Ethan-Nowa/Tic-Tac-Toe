@@ -3,7 +3,7 @@ A two-player game in React where players take turns placing their letters ("A" o
 The game includes basic functionality for taking turns, declaring a winner, and tracking move history.\
 Click the moon/sun in the top left to switch to dark/light mode.\
 Use the history towards the bottom left of the screen to switch to an older move.\
-The current player is highlighted on the top scoreboard.
+The current player is highlighted on the top scoreboard. Refreshing the page will reset the scores.
 
 # Download Instructions
 Download project, unzip, open the folder.\
