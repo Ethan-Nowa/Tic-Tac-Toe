@@ -1,5 +1,6 @@
 import React from "react";
 
+// Creates and writes the correct description in the History buttons.
 const History = ({ history, jumpTo }) => {
   return (
     <div>

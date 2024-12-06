@@ -1,5 +1,6 @@
 import { useState } from "react";
 
+// Holds the Game logic.
 const Game = () => {
   const WIN_CONDITIONS = [
     [0, 1, 2],

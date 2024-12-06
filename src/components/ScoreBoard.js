@@ -1,5 +1,6 @@
 import React from "react";
 
+// Applies the appropriate styling for the ScoreBoard, including highlighting current turn and winner.
 export const ScoreBoard = ({ scores, XIsNext, gameOver, gameDraw }) => {
   const { xScore, oScore } = scores;
   return (

@@ -8,6 +8,7 @@ import ResetButton from "./components/ResetButton";
 import History from "./components/History";
 import Game from "./components/Game";
 
+// Initializes the app and its components.
 function App() {
   const [isDarkMode, setIsDarkMode] = useState(false);
 

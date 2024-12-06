@@ -2,6 +2,7 @@ import React from 'react'
 
 import { Square } from "./Square";
 
+// Creates the board of Squares and passes parameters to them.
 export const Board = ({ board, onSquareClick, winningSquares, gameDraw }) => {
   return (
     <div className="board">
