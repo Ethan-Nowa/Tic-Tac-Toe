@@ -1,0 +1,53 @@
+/* dark-mode.css */
+body.dark-mode {
+  background-color: #111B22;
+  color: white;
+}
+
+body.dark-mode .square {
+  background-color: #34495e;
+  box-shadow: 0px 0px 8px #2f3e4d;
+}
+
+body.dark-mode .square:hover {
+  background-color: #2c3e50;
+  box-shadow: 0px 0px 8px #2f3e4d;
+}
+
+body.dark-mode .square.winning {
+  background-color: #f1c40f;
+}
+
+body.dark-mode .square-draw {
+  background-color: yellowgreen;
+}
+
+body.dark-mode .scoreboard {
+  background-color: #34495e;
+  box-shadow: 0px 0px 8px #2f3e4d;
+}
+
+body.dark-mode .reset-btn {
+  background-color: #2980b9;
+}
+
+body.dark-mode .reset-btn:hover {
+  background-color: #3498db;
+}
+
+body.dark-mode .move-btn {
+  background-color: #7f8c8d;
+  color: white;
+}
+
+body.dark-mode .move-btn:hover {
+  background-color: #95a5a6;
+}
+
+body.dark-mode .dark-mode-toggle-btn {
+  background-color: #ffffff;
+}
+
+body.dark-mode .dark-mode-toggle-btn:hover {
+  background-color: #cccccc;
+}
