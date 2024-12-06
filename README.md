@@ -1,3 +1,19 @@
+# Description
+A two-player game in React where players take turns placing their letters ("A" or "B") on a 3x3 board, aiming to achieve three in a row horizontally, vertically, or diagonally.
+The game includes basic functionality for taking turns, declaring a winner, and tracking move history.
+Click the moon/sun in the top left to switch to dark/light mode.
+Use the history towards the bottom left of the screen to switch to an older move.
+The current player is highlighted on the top scoreboard.
+
+# Download Instructions
+Download project, unzip, open the folder.
+When in the correct directory, you should see files like the src folder, public folder, README.md, etc.
+Click into the address bar and type cmd and press Enter.
+This should pull up cmd.exe, enter "npm start" without the quotation marks and press Enter.
+Open http://localhost:3000 in your web browser if it does not do it automatically.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
